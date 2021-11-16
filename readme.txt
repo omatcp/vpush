@@ -1,0 +1,2 @@
+vless://390ec41e-35ec-4f4d-81c3-90900e167643@104.17.42.4:443?flow=&encryption=none&security=tls&sni=flat-queen-e1ea.anlefsd.workers.dev&type=ws&host=flat-queen-e1ea.anlefsd.workers.dev&path=/xray&headerType=none#v1
+vless://390ec41e-35ec-4f4d-81c3-90900e167643@173.245.49.140:443?flow=&encryption=none&security=tls&sni=flat-queen-e1ea.anlefsd.workers.dev&type=ws&host=flat-queen-e1ea.anlefsd.workers.dev&path=/xray&headerType=none#v2
